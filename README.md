@@ -13,4 +13,5 @@ BPNet is a full-connected multilayer network which uses stochastic gradient desc
 -----
 Now I am trying to make some difference in this readme file, for I want to explore how github work.
 
-2022.6.21, VolcanoX adds this text line. 
+2022.6.21, VolcanoX adds this text line. 2022.6.21, VolcanoX adds this text line. 2022.6.21, VolcanoX adds this text line. 2022.6.21, VolcanoX adds this text line. 
+
