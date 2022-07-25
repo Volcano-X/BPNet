@@ -9,6 +9,3 @@ BPNet is a full-connected multilayer network which uses stochastic gradient desc
 + code / test.py :  a python code for testing BPNet.py on minist data set. 
 + data : a folder which contains four csv file : minist_images_train.csv, minist_label_train.csv, minist_images_test.csv, minist_labels_test.csv. 
 + trainParameters:  a folders which contains a pre-trained parameters.
-
------
-Now I am trying to make some difference in this readme file, for I want to explore how github work.
